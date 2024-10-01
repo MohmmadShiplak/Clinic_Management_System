@@ -1,0 +1,1898 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\Clinic Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|c:\\users\\user\\source\\repos\\clinic project\\clinic project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|solutionrelative:clinic project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11123641-6670-45E5-A38C-00EF332BCEF5}|Clinic_DataAccess\\Clinic_DataAccess.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic_dataaccess\\clsstatusdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11123641-6670-45E5-A38C-00EF332BCEF5}|Clinic_DataAccess\\Clinic_DataAccess.csproj|solutionrelative:clinic_dataaccess\\clsstatusdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11123641-6670-45E5-A38C-00EF332BCEF5}|Clinic_DataAccess\\Clinic_DataAccess.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic_dataaccess\\clsusersdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11123641-6670-45E5-A38C-00EF332BCEF5}|Clinic_DataAccess\\Clinic_DataAccess.csproj|solutionrelative:clinic_dataaccess\\clsusersdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11123641-6670-45E5-A38C-00EF332BCEF5}|Clinic_DataAccess\\Clinic_DataAccess.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic_dataaccess\\clsprescriptiondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11123641-6670-45E5-A38C-00EF332BCEF5}|Clinic_DataAccess\\Clinic_DataAccess.csproj|solutionrelative:clinic_dataaccess\\clsprescriptiondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11123641-6670-45E5-A38C-00EF332BCEF5}|Clinic_DataAccess\\Clinic_DataAccess.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic_dataaccess\\clspaymentsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11123641-6670-45E5-A38C-00EF332BCEF5}|Clinic_DataAccess\\Clinic_DataAccess.csproj|solutionrelative:clinic_dataaccess\\clspaymentsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11123641-6670-45E5-A38C-00EF332BCEF5}|Clinic_DataAccess\\Clinic_DataAccess.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic_dataaccess\\clspatientdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11123641-6670-45E5-A38C-00EF332BCEF5}|Clinic_DataAccess\\Clinic_DataAccess.csproj|solutionrelative:clinic_dataaccess\\clspatientdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11123641-6670-45E5-A38C-00EF332BCEF5}|Clinic_DataAccess\\Clinic_DataAccess.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic_dataaccess\\clsmajordata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11123641-6670-45E5-A38C-00EF332BCEF5}|Clinic_DataAccess\\Clinic_DataAccess.csproj|solutionrelative:clinic_dataaccess\\clsmajordata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11123641-6670-45E5-A38C-00EF332BCEF5}|Clinic_DataAccess\\Clinic_DataAccess.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic_dataaccess\\clsillnessesdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11123641-6670-45E5-A38C-00EF332BCEF5}|Clinic_DataAccess\\Clinic_DataAccess.csproj|solutionrelative:clinic_dataaccess\\clsillnessesdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11123641-6670-45E5-A38C-00EF332BCEF5}|Clinic_DataAccess\\Clinic_DataAccess.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic_dataaccess\\clsemailsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11123641-6670-45E5-A38C-00EF332BCEF5}|Clinic_DataAccess\\Clinic_DataAccess.csproj|solutionrelative:clinic_dataaccess\\clsemailsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11123641-6670-45E5-A38C-00EF332BCEF5}|Clinic_DataAccess\\Clinic_DataAccess.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic_dataaccess\\clsdoctordata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11123641-6670-45E5-A38C-00EF332BCEF5}|Clinic_DataAccess\\Clinic_DataAccess.csproj|solutionrelative:clinic_dataaccess\\clsdoctordata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11123641-6670-45E5-A38C-00EF332BCEF5}|Clinic_DataAccess\\Clinic_DataAccess.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic_dataaccess\\clsappointmentsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11123641-6670-45E5-A38C-00EF332BCEF5}|Clinic_DataAccess\\Clinic_DataAccess.csproj|solutionrelative:clinic_dataaccess\\clsappointmentsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11123641-6670-45E5-A38C-00EF332BCEF5}|Clinic_DataAccess\\Clinic_DataAccess.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic_dataaccess\\clspersondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11123641-6670-45E5-A38C-00EF332BCEF5}|Clinic_DataAccess\\Clinic_DataAccess.csproj|solutionrelative:clinic_dataaccess\\clspersondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11123641-6670-45E5-A38C-00EF332BCEF5}|Clinic_DataAccess\\Clinic_DataAccess.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic_dataaccess\\clsloghandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11123641-6670-45E5-A38C-00EF332BCEF5}|Clinic_DataAccess\\Clinic_DataAccess.csproj|solutionrelative:clinic_dataaccess\\clsloghandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11123641-6670-45E5-A38C-00EF332BCEF5}|Clinic_DataAccess\\Clinic_DataAccess.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic_dataaccess\\clsdataaccesshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11123641-6670-45E5-A38C-00EF332BCEF5}|Clinic_DataAccess\\Clinic_DataAccess.csproj|solutionrelative:clinic_dataaccess\\clsdataaccesshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11123641-6670-45E5-A38C-00EF332BCEF5}|Clinic_DataAccess\\Clinic_DataAccess.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic_dataaccess\\clsmedicalrecorddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11123641-6670-45E5-A38C-00EF332BCEF5}|Clinic_DataAccess\\Clinic_DataAccess.csproj|solutionrelative:clinic_dataaccess\\clsmedicalrecorddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11123641-6670-45E5-A38C-00EF332BCEF5}|Clinic_DataAccess\\Clinic_DataAccess.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic_dataaccess\\clserrorlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11123641-6670-45E5-A38C-00EF332BCEF5}|Clinic_DataAccess\\Clinic_DataAccess.csproj|solutionrelative:clinic_dataaccess\\clserrorlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic project\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|solutionrelative:clinic project\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic project\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|solutionrelative:clinic project\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic project\\doctors\\frmlistdoctors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|solutionrelative:clinic project\\doctors\\frmlistdoctors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic project\\medicalrecords\\frmlistmedicalrecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|solutionrelative:clinic project\\medicalrecords\\frmlistmedicalrecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic project\\medicalrecords\\frmlistmedicalrecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|solutionrelative:clinic project\\medicalrecords\\frmlistmedicalrecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic project\\payments\\frmaddupdatepayments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|solutionrelative:clinic project\\payments\\frmaddupdatepayments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic project\\payments\\frmaddupdatepayments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|solutionrelative:clinic project\\payments\\frmaddupdatepayments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic project\\payments\\frmlistpayments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|solutionrelative:clinic project\\payments\\frmlistpayments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic project\\payments\\frmlistpayments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|solutionrelative:clinic project\\payments\\frmlistpayments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F91AB1C-5EDC-42E9-8B47-524EA41F6B6E}|Clinic_Business\\Clinic_Business.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic_business\\clsprescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F91AB1C-5EDC-42E9-8B47-524EA41F6B6E}|Clinic_Business\\Clinic_Business.csproj|solutionrelative:clinic_business\\clsprescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic project\\doctors\\frmfinddoctors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|solutionrelative:clinic project\\doctors\\frmfinddoctors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic project\\doctors\\frmlistdoctors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|solutionrelative:clinic project\\doctors\\frmlistdoctors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic project\\doctors\\frmaddupdatedoctors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|solutionrelative:clinic project\\doctors\\frmaddupdatedoctors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic project\\doctors\\frmaddupdatedoctors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|solutionrelative:clinic project\\doctors\\frmaddupdatedoctors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic project\\patients\\frmaddupdatepatients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|solutionrelative:clinic project\\patients\\frmaddupdatepatients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic project\\doctors\\frmaddupdatedoctors.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|solutionrelative:clinic project\\doctors\\frmaddupdatedoctors.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic project\\patients\\frmlistpatients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|solutionrelative:clinic project\\patients\\frmlistpatients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic project\\patients\\frmlistpatients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|solutionrelative:clinic project\\patients\\frmlistpatients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic project\\prescription\\frmlistprescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|solutionrelative:clinic project\\prescription\\frmlistprescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic project\\prescription\\frmlistprescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|solutionrelative:clinic project\\prescription\\frmlistprescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic project\\prescription\\frmaddupdateprescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|solutionrelative:clinic project\\prescription\\frmaddupdateprescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F91AB1C-5EDC-42E9-8B47-524EA41F6B6E}|Clinic_Business\\Clinic_Business.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic_business\\clsmedicationnames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F91AB1C-5EDC-42E9-8B47-524EA41F6B6E}|Clinic_Business\\Clinic_Business.csproj|solutionrelative:clinic_business\\clsmedicationnames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F91AB1C-5EDC-42E9-8B47-524EA41F6B6E}|Clinic_Business\\Clinic_Business.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic_business\\clsillnesses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F91AB1C-5EDC-42E9-8B47-524EA41F6B6E}|Clinic_Business\\Clinic_Business.csproj|solutionrelative:clinic_business\\clsillnesses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic project\\patients\\frmaddupdatepatients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|solutionrelative:clinic project\\patients\\frmaddupdatepatients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F91AB1C-5EDC-42E9-8B47-524EA41F6B6E}|Clinic_Business\\Clinic_Business.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic_business\\clspatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F91AB1C-5EDC-42E9-8B47-524EA41F6B6E}|Clinic_Business\\Clinic_Business.csproj|solutionrelative:clinic_business\\clspatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic project\\prescription\\frmaddupdateprescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|solutionrelative:clinic project\\prescription\\frmaddupdateprescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11123641-6670-45E5-A38C-00EF332BCEF5}|Clinic_DataAccess\\Clinic_DataAccess.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic_dataaccess\\clsmedicationnamesdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11123641-6670-45E5-A38C-00EF332BCEF5}|Clinic_DataAccess\\Clinic_DataAccess.csproj|solutionrelative:clinic_dataaccess\\clsmedicationnamesdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic project\\users\\frmlistusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|solutionrelative:clinic project\\users\\frmlistusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic project\\users\\frmlistusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|solutionrelative:clinic project\\users\\frmlistusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic project\\prescription\\frmaddupdateprescription.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|solutionrelative:clinic project\\prescription\\frmaddupdateprescription.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic project\\users\\frmshowusersinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|solutionrelative:clinic project\\users\\frmshowusersinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic project\\users\\frmshowusersinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|solutionrelative:clinic project\\users\\frmshowusersinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic project\\users\\frmaddupdateusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|solutionrelative:clinic project\\users\\frmaddupdateusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic project\\users\\frmchangepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|solutionrelative:clinic project\\users\\frmchangepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic project\\payments\\frmaddupdatepayments.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|solutionrelative:clinic project\\payments\\frmaddupdatepayments.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic project\\patients\\frmshowpatientsinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|solutionrelative:clinic project\\patients\\frmshowpatientsinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic project\\patients\\frmshowpatientsinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|solutionrelative:clinic project\\patients\\frmshowpatientsinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic project\\patients\\frmfindpatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|solutionrelative:clinic project\\patients\\frmfindpatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic project\\patients\\frmfindpatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|solutionrelative:clinic project\\patients\\frmfindpatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic project\\medicalrecords\\frmaddupdatemedicalrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|solutionrelative:clinic project\\medicalrecords\\frmaddupdatemedicalrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic project\\medicalrecords\\frmaddupdatemedicalrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|solutionrelative:clinic project\\medicalrecords\\frmaddupdatemedicalrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic project\\doctors\\frmshowdoctorsinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|solutionrelative:clinic project\\doctors\\frmshowdoctorsinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic project\\doctors\\frmshowdoctorsinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|solutionrelative:clinic project\\doctors\\frmshowdoctorsinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic project\\doctors\\frmfinddoctors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|solutionrelative:clinic project\\doctors\\frmfinddoctors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic project\\doctors\\controls\\ctrldoctorscardwithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|solutionrelative:clinic project\\doctors\\controls\\ctrldoctorscardwithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic project\\doctors\\controls\\ctrldoctorscardwithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|solutionrelative:clinic project\\doctors\\controls\\ctrldoctorscardwithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic project\\doctors\\controls\\ctrldoctorscard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|solutionrelative:clinic project\\doctors\\controls\\ctrldoctorscard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic project\\doctors\\controls\\ctrldoctorscard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|solutionrelative:clinic project\\doctors\\controls\\ctrldoctorscard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic project\\appointments\\frmsendemails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|solutionrelative:clinic project\\appointments\\frmsendemails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic project\\appointments\\frmsendemails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|solutionrelative:clinic project\\appointments\\frmsendemails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic project\\appointments\\frmlistappointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|solutionrelative:clinic project\\appointments\\frmlistappointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic project\\appointments\\frmlistappointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|solutionrelative:clinic project\\appointments\\frmlistappointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic project\\appointments\\frmaddupdateappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|solutionrelative:clinic project\\appointments\\frmaddupdateappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic project\\appointments\\frmaddupdateappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|solutionrelative:clinic project\\appointments\\frmaddupdateappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic project\\persons\\frmaddupdatepersons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|solutionrelative:clinic project\\persons\\frmaddupdatepersons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11123641-6670-45E5-A38C-00EF332BCEF5}|Clinic_DataAccess\\Clinic_DataAccess.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic_dataaccess\\clspaymentmethoddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11123641-6670-45E5-A38C-00EF332BCEF5}|Clinic_DataAccess\\Clinic_DataAccess.csproj|solutionrelative:clinic_dataaccess\\clspaymentmethoddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F91AB1C-5EDC-42E9-8B47-524EA41F6B6E}|Clinic_Business\\Clinic_Business.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic_business\\clspayments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F91AB1C-5EDC-42E9-8B47-524EA41F6B6E}|Clinic_Business\\Clinic_Business.csproj|solutionrelative:clinic_business\\clspayments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F91AB1C-5EDC-42E9-8B47-524EA41F6B6E}|Clinic_Business\\Clinic_Business.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic_business\\clspaymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F91AB1C-5EDC-42E9-8B47-524EA41F6B6E}|Clinic_Business\\Clinic_Business.csproj|solutionrelative:clinic_business\\clspaymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic project\\patients\\controls\\ctrlpatientcardwithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|solutionrelative:clinic project\\patients\\controls\\ctrlpatientcardwithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F91AB1C-5EDC-42E9-8B47-524EA41F6B6E}|Clinic_Business\\Clinic_Business.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic_business\\clsmedicalrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F91AB1C-5EDC-42E9-8B47-524EA41F6B6E}|Clinic_Business\\Clinic_Business.csproj|solutionrelative:clinic_business\\clsmedicalrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic project\\persons\\controls\\ctrlpersoncardwithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|solutionrelative:clinic project\\persons\\controls\\ctrlpersoncardwithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic project\\persons\\controls\\ctrlpersoncard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|solutionrelative:clinic project\\persons\\controls\\ctrlpersoncard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic project\\persons\\controls\\ctrlpersoncardwithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|solutionrelative:clinic project\\persons\\controls\\ctrlpersoncardwithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic project\\patients\\controls\\ctrlpatientcardwithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|solutionrelative:clinic project\\patients\\controls\\ctrlpatientcardwithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic project\\persons\\frmlistpersons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|solutionrelative:clinic project\\persons\\frmlistpersons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic project\\persons\\frmlistpersons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|solutionrelative:clinic project\\persons\\frmlistpersons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F91AB1C-5EDC-42E9-8B47-524EA41F6B6E}|Clinic_Business\\Clinic_Business.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic_business\\clsmajor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F91AB1C-5EDC-42E9-8B47-524EA41F6B6E}|Clinic_Business\\Clinic_Business.csproj|solutionrelative:clinic_business\\clsmajor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F91AB1C-5EDC-42E9-8B47-524EA41F6B6E}|Clinic_Business\\Clinic_Business.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic_business\\clsperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F91AB1C-5EDC-42E9-8B47-524EA41F6B6E}|Clinic_Business\\Clinic_Business.csproj|solutionrelative:clinic_business\\clsperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F91AB1C-5EDC-42E9-8B47-524EA41F6B6E}|Clinic_Business\\Clinic_Business.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic_business\\clsstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F91AB1C-5EDC-42E9-8B47-524EA41F6B6E}|Clinic_Business\\Clinic_Business.csproj|solutionrelative:clinic_business\\clsstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F91AB1C-5EDC-42E9-8B47-524EA41F6B6E}|Clinic_Business\\Clinic_Business.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic_business\\clsusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F91AB1C-5EDC-42E9-8B47-524EA41F6B6E}|Clinic_Business\\Clinic_Business.csproj|solutionrelative:clinic_business\\clsusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11123641-6670-45E5-A38C-00EF332BCEF5}|Clinic_DataAccess\\Clinic_DataAccess.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic_dataaccess\\clssettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11123641-6670-45E5-A38C-00EF332BCEF5}|Clinic_DataAccess\\Clinic_DataAccess.csproj|solutionrelative:clinic_dataaccess\\clssettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic project\\persons\\frmshowpersoninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|solutionrelative:clinic project\\persons\\frmshowpersoninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic project\\users\\frmaddupdateusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|solutionrelative:clinic project\\users\\frmaddupdateusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic project\\users\\frmchangepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|solutionrelative:clinic project\\users\\frmchangepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F91AB1C-5EDC-42E9-8B47-524EA41F6B6E}|Clinic_Business\\Clinic_Business.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic_business\\clsemails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F91AB1C-5EDC-42E9-8B47-524EA41F6B6E}|Clinic_Business\\Clinic_Business.csproj|solutionrelative:clinic_business\\clsemails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F91AB1C-5EDC-42E9-8B47-524EA41F6B6E}|Clinic_Business\\Clinic_Business.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic_business\\clsappointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F91AB1C-5EDC-42E9-8B47-524EA41F6B6E}|Clinic_Business\\Clinic_Business.csproj|solutionrelative:clinic_business\\clsappointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F91AB1C-5EDC-42E9-8B47-524EA41F6B6E}|Clinic_Business\\Clinic_Business.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic_business\\clsdoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F91AB1C-5EDC-42E9-8B47-524EA41F6B6E}|Clinic_Business\\Clinic_Business.csproj|solutionrelative:clinic_business\\clsdoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic project\\patients\\controls\\ctrlpatientcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|solutionrelative:clinic project\\patients\\controls\\ctrlpatientcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic project\\persons\\frmfindperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|solutionrelative:clinic project\\persons\\frmfindperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic project\\patients\\controls\\ctrlpatientcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|solutionrelative:clinic project\\patients\\controls\\ctrlpatientcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic project\\doctors\\frmfinddoctors.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|solutionrelative:clinic project\\doctors\\frmfinddoctors.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic project\\persons\\controls\\ctrlpersoncard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|solutionrelative:clinic project\\persons\\controls\\ctrlpersoncard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic project\\appointments\\frmaddupdateappointment.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57D86AA6-B38C-4D8A-8432-EEEA4CCD6CE9}|Clinic Project\\Clinic Project.csproj|solutionrelative:clinic project\\appointments\\frmaddupdateappointment.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\frmChangePassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Clinic Project\\frmChangePassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic project\\frmchangepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:clinic project\\frmchangepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\ctrlUserCard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Clinic Project\\ctrlUserCard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\frmChangePassword.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Clinic Project\\frmChangePassword.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\frmShowUsersInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Clinic Project\\frmShowUsersInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic project\\ctrlusercard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:clinic project\\ctrlusercard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic project\\frmshowusersinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:clinic project\\frmshowusersinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\ctrlUserCard.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Clinic Project\\ctrlUserCard.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic project\\frmsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:clinic project\\frmsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\frmLogin.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Clinic Project\\frmLogin.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\frmLogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Clinic Project\\frmLogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic project\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:clinic project\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\frmSettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Clinic Project\\frmSettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic project\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:clinic project\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\frmDashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Clinic Project\\frmDashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\clsValidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Clinic Project\\clsValidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\clsFormat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Clinic Project\\clsFormat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\clsGlobal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Clinic Project\\clsGlobal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\source\\repos\\Clinic Project\\clinic project\\ctrlfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:clinic project\\ctrlfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\ctrlFilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Clinic Project\\ctrlFilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "clsDoctorData.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic_DataAccess\\clsDoctorData.cs",
+              "RelativeDocumentMoniker": "Clinic_DataAccess\\clsDoctorData.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic_DataAccess\\clsDoctorData.cs",
+              "RelativeToolTip": "Clinic_DataAccess\\clsDoctorData.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAQwA8BAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T22:40:56.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "clsPatientData.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic_DataAccess\\clsPatientData.cs",
+              "RelativeDocumentMoniker": "Clinic_DataAccess\\clsPatientData.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic_DataAccess\\clsPatientData.cs",
+              "RelativeToolTip": "Clinic_DataAccess\\clsPatientData.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAYwAcBAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T00:42:51.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "clsEmailsData.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic_DataAccess\\clsEmailsData.cs",
+              "RelativeDocumentMoniker": "Clinic_DataAccess\\clsEmailsData.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic_DataAccess\\clsEmailsData.cs",
+              "RelativeToolTip": "Clinic_DataAccess\\clsEmailsData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T00:36:00.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "clsillnessesData.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic_DataAccess\\clsillnessesData.cs",
+              "RelativeDocumentMoniker": "Clinic_DataAccess\\clsillnessesData.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic_DataAccess\\clsillnessesData.cs",
+              "RelativeToolTip": "Clinic_DataAccess\\clsillnessesData.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T00:36:02.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "clsMajorData.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic_DataAccess\\clsMajorData.cs",
+              "RelativeDocumentMoniker": "Clinic_DataAccess\\clsMajorData.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic_DataAccess\\clsMajorData.cs",
+              "RelativeToolTip": "Clinic_DataAccess\\clsMajorData.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T12:08:50.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "clsPaymentsData.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic_DataAccess\\clsPaymentsData.cs",
+              "RelativeDocumentMoniker": "Clinic_DataAccess\\clsPaymentsData.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic_DataAccess\\clsPaymentsData.cs",
+              "RelativeToolTip": "Clinic_DataAccess\\clsPaymentsData.cs",
+              "ViewState": "AgIAAMUAAAAAAAAAAAA5wKoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T12:05:24.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "clsPrescriptionData.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic_DataAccess\\clsPrescriptionData.cs",
+              "RelativeDocumentMoniker": "Clinic_DataAccess\\clsPrescriptionData.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic_DataAccess\\clsPrescriptionData.cs",
+              "RelativeToolTip": "Clinic_DataAccess\\clsPrescriptionData.cs",
+              "ViewState": "AgIAAK8AAAAAAAAAAAAkwEUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T12:03:29.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsStatusData.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic_DataAccess\\clsStatusData.cs",
+              "RelativeDocumentMoniker": "Clinic_DataAccess\\clsStatusData.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic_DataAccess\\clsStatusData.cs",
+              "RelativeToolTip": "Clinic_DataAccess\\clsStatusData.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAQwFwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T12:09:40.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clsUsersData.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic_DataAccess\\clsUsersData.cs",
+              "RelativeDocumentMoniker": "Clinic_DataAccess\\clsUsersData.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic_DataAccess\\clsUsersData.cs",
+              "RelativeToolTip": "Clinic_DataAccess\\clsUsersData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGABAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T00:20:20.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Program.cs",
+              "RelativeDocumentMoniker": "Clinic Project\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Program.cs",
+              "RelativeToolTip": "Clinic Project\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T00:39:20.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "clsAppointmentsData.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic_DataAccess\\clsAppointmentsData.cs",
+              "RelativeDocumentMoniker": "Clinic_DataAccess\\clsAppointmentsData.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic_DataAccess\\clsAppointmentsData.cs",
+              "RelativeToolTip": "Clinic_DataAccess\\clsAppointmentsData.cs",
+              "ViewState": "AgIAAMMAAAAAAAAAAAAowLoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T22:06:56.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "clsPersonData.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic_DataAccess\\clsPersonData.cs",
+              "RelativeDocumentMoniker": "Clinic_DataAccess\\clsPersonData.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic_DataAccess\\clsPersonData.cs",
+              "RelativeToolTip": "Clinic_DataAccess\\clsPersonData.cs",
+              "ViewState": "AgIAAN8AAAAAAAAAAAAowPwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T00:36:17.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "clsLogHandler.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic_DataAccess\\clsLogHandler.cs",
+              "RelativeDocumentMoniker": "Clinic_DataAccess\\clsLogHandler.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic_DataAccess\\clsLogHandler.cs",
+              "RelativeToolTip": "Clinic_DataAccess\\clsLogHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T14:37:06.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "clsDataAccessHelper.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic_DataAccess\\clsDataAccessHelper.cs",
+              "RelativeDocumentMoniker": "Clinic_DataAccess\\clsDataAccessHelper.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic_DataAccess\\clsDataAccessHelper.cs",
+              "RelativeToolTip": "Clinic_DataAccess\\clsDataAccessHelper.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T11:48:17.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "clsMedicalRecordData.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic_DataAccess\\clsMedicalRecordData.cs",
+              "RelativeDocumentMoniker": "Clinic_DataAccess\\clsMedicalRecordData.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic_DataAccess\\clsMedicalRecordData.cs",
+              "RelativeToolTip": "Clinic_DataAccess\\clsMedicalRecordData.cs",
+              "ViewState": "AgIAAKAAAAAAAAAAAAAkwJgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T12:03:49.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "clsErrorLog.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic_DataAccess\\clsErrorLog.cs",
+              "RelativeDocumentMoniker": "Clinic_DataAccess\\clsErrorLog.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic_DataAccess\\clsErrorLog.cs",
+              "RelativeToolTip": "Clinic_DataAccess\\clsErrorLog.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwBUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T14:37:17.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 114,
+              "Title": "clsValidation.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\clsValidation.cs",
+              "RelativeDocumentMoniker": "Clinic Project\\clsValidation.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\clsValidation.cs",
+              "RelativeToolTip": "Clinic Project\\clsValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T14:36:32.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 115,
+              "Title": "clsFormat.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\clsFormat.cs",
+              "RelativeDocumentMoniker": "Clinic Project\\clsFormat.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\clsFormat.cs",
+              "RelativeToolTip": "Clinic Project\\clsFormat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T14:36:27.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\frmMain.cs",
+              "RelativeDocumentMoniker": "Clinic Project\\frmMain.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\frmMain.cs",
+              "RelativeToolTip": "Clinic Project\\frmMain.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T00:35:04.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frmListDoctors.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Doctors\\frmListDoctors.cs",
+              "RelativeDocumentMoniker": "Clinic Project\\Doctors\\frmListDoctors.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Doctors\\frmListDoctors.cs [Design]*",
+              "RelativeToolTip": "Clinic Project\\Doctors\\frmListDoctors.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T01:27:49.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "frmSettings.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\frmSettings.cs",
+              "RelativeDocumentMoniker": "Clinic Project\\frmSettings.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\frmSettings.cs [Design]*",
+              "RelativeToolTip": "Clinic Project\\frmSettings.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T23:47:46.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "frmLogin.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\frmLogin.Designer.cs",
+              "RelativeDocumentMoniker": "Clinic Project\\frmLogin.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\frmLogin.Designer.cs",
+              "RelativeToolTip": "Clinic Project\\frmLogin.Designer.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAkwLAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T23:44:31.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\frmLogin.cs",
+              "RelativeDocumentMoniker": "Clinic Project\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\frmLogin.cs",
+              "RelativeToolTip": "Clinic Project\\frmLogin.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T00:18:24.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 116,
+              "Title": "clsGlobal.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\clsGlobal.cs",
+              "RelativeDocumentMoniker": "Clinic Project\\clsGlobal.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\clsGlobal.cs",
+              "RelativeToolTip": "Clinic Project\\clsGlobal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T00:28:05.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 110,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\frmLogin.cs",
+              "RelativeDocumentMoniker": "Clinic Project\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\frmLogin.cs [Design]",
+              "RelativeToolTip": "Clinic Project\\frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T00:10:01.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "frmAddUpdatePayments.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Payments\\frmAddUpdatePayments.cs",
+              "RelativeDocumentMoniker": "Clinic Project\\Payments\\frmAddUpdatePayments.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Payments\\frmAddUpdatePayments.cs [Design]",
+              "RelativeToolTip": "Clinic Project\\Payments\\frmAddUpdatePayments.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T00:38:27.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 111,
+              "Title": "frmSettings.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\frmSettings.cs",
+              "RelativeDocumentMoniker": "Clinic Project\\frmSettings.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\frmSettings.cs",
+              "RelativeToolTip": "Clinic Project\\frmSettings.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T23:47:50.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "frmListMedicalRecords.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\MedicalRecords\\frmListMedicalRecords.cs",
+              "RelativeDocumentMoniker": "Clinic Project\\MedicalRecords\\frmListMedicalRecords.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\MedicalRecords\\frmListMedicalRecords.cs*",
+              "RelativeToolTip": "Clinic Project\\MedicalRecords\\frmListMedicalRecords.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T00:36:36.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "frmListMedicalRecords.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\MedicalRecords\\frmListMedicalRecords.cs",
+              "RelativeDocumentMoniker": "Clinic Project\\MedicalRecords\\frmListMedicalRecords.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\MedicalRecords\\frmListMedicalRecords.cs [Design]*",
+              "RelativeToolTip": "Clinic Project\\MedicalRecords\\frmListMedicalRecords.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T23:15:07.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\frmMain.cs",
+              "RelativeDocumentMoniker": "Clinic Project\\frmMain.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\frmMain.cs [Design]",
+              "RelativeToolTip": "Clinic Project\\frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T00:42:42.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "frmAddUpdatePayments.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Payments\\frmAddUpdatePayments.cs",
+              "RelativeDocumentMoniker": "Clinic Project\\Payments\\frmAddUpdatePayments.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Payments\\frmAddUpdatePayments.cs",
+              "RelativeToolTip": "Clinic Project\\Payments\\frmAddUpdatePayments.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAkwGcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T11:09:39.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "frmListPayments.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Payments\\frmListPayments.cs",
+              "RelativeDocumentMoniker": "Clinic Project\\Payments\\frmListPayments.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Payments\\frmListPayments.cs",
+              "RelativeToolTip": "Clinic Project\\Payments\\frmListPayments.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T11:48:23.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "clsPrescription.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic_Business\\clsPrescription.cs",
+              "RelativeDocumentMoniker": "Clinic_Business\\clsPrescription.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic_Business\\clsPrescription.cs*",
+              "RelativeToolTip": "Clinic_Business\\clsPrescription.cs*",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T12:15:35.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "frmFindDoctors.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Doctors\\frmFindDoctors.cs",
+              "RelativeDocumentMoniker": "Clinic Project\\Doctors\\frmFindDoctors.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Doctors\\frmFindDoctors.cs [Design]*",
+              "RelativeToolTip": "Clinic Project\\Doctors\\frmFindDoctors.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T23:14:14.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "frmListDoctors.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Doctors\\frmListDoctors.cs",
+              "RelativeDocumentMoniker": "Clinic Project\\Doctors\\frmListDoctors.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Doctors\\frmListDoctors.cs*",
+              "RelativeToolTip": "Clinic Project\\Doctors\\frmListDoctors.cs*",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAAAFUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T01:27:51.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "frmAddUpdateDoctors.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Doctors\\frmAddUpdateDoctors.cs",
+              "RelativeDocumentMoniker": "Clinic Project\\Doctors\\frmAddUpdateDoctors.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Doctors\\frmAddUpdateDoctors.cs [Design]",
+              "RelativeToolTip": "Clinic Project\\Doctors\\frmAddUpdateDoctors.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T22:48:12.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "frmAddUpdateDoctors.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Doctors\\frmAddUpdateDoctors.cs",
+              "RelativeDocumentMoniker": "Clinic Project\\Doctors\\frmAddUpdateDoctors.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Doctors\\frmAddUpdateDoctors.cs",
+              "RelativeToolTip": "Clinic Project\\Doctors\\frmAddUpdateDoctors.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T22:49:34.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "frmListPayments.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Payments\\frmListPayments.cs",
+              "RelativeDocumentMoniker": "Clinic Project\\Payments\\frmListPayments.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Payments\\frmListPayments.cs [Design]",
+              "RelativeToolTip": "Clinic Project\\Payments\\frmListPayments.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T23:15:16.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "clsillnesses.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic_Business\\clsillnesses.cs",
+              "RelativeDocumentMoniker": "Clinic_Business\\clsillnesses.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic_Business\\clsillnesses.cs",
+              "RelativeToolTip": "Clinic_Business\\clsillnesses.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAUwBkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T00:35:46.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "frmAddUpdatePatients.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Patients\\frmAddUpdatePatients.cs",
+              "RelativeDocumentMoniker": "Clinic Project\\Patients\\frmAddUpdatePatients.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Patients\\frmAddUpdatePatients.cs [Design]",
+              "RelativeToolTip": "Clinic Project\\Patients\\frmAddUpdatePatients.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T23:15:11.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "frmListPatients.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Patients\\frmListPatients.cs",
+              "RelativeDocumentMoniker": "Clinic Project\\Patients\\frmListPatients.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Patients\\frmListPatients.cs",
+              "RelativeToolTip": "Clinic Project\\Patients\\frmListPatients.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAG8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T00:38:45.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "frmAddUpdateDoctors.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Doctors\\frmAddUpdateDoctors.Designer.cs",
+              "RelativeDocumentMoniker": "Clinic Project\\Doctors\\frmAddUpdateDoctors.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Doctors\\frmAddUpdateDoctors.Designer.cs",
+              "RelativeToolTip": "Clinic Project\\Doctors\\frmAddUpdateDoctors.Designer.cs",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAAALcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T14:42:33.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "frmListPatients.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Patients\\frmListPatients.cs",
+              "RelativeDocumentMoniker": "Clinic Project\\Patients\\frmListPatients.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Patients\\frmListPatients.cs [Design]",
+              "RelativeToolTip": "Clinic Project\\Patients\\frmListPatients.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T00:38:37.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "frmListPrescription.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Prescription\\frmListPrescription.cs",
+              "RelativeDocumentMoniker": "Clinic Project\\Prescription\\frmListPrescription.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Prescription\\frmListPrescription.cs",
+              "RelativeToolTip": "Clinic Project\\Prescription\\frmListPrescription.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwB4AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T00:37:36.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "frmListPrescription.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Prescription\\frmListPrescription.cs",
+              "RelativeDocumentMoniker": "Clinic Project\\Prescription\\frmListPrescription.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Prescription\\frmListPrescription.cs [Design]",
+              "RelativeToolTip": "Clinic Project\\Prescription\\frmListPrescription.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T23:15:31.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "clsMedicationNames.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic_Business\\clsMedicationNames.cs",
+              "RelativeDocumentMoniker": "Clinic_Business\\clsMedicationNames.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic_Business\\clsMedicationNames.cs",
+              "RelativeToolTip": "Clinic_Business\\clsMedicationNames.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T00:35:35.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "frmAddUpdatePrescription.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Prescription\\frmAddUpdatePrescription.cs",
+              "RelativeDocumentMoniker": "Clinic Project\\Prescription\\frmAddUpdatePrescription.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Prescription\\frmAddUpdatePrescription.cs",
+              "RelativeToolTip": "Clinic Project\\Prescription\\frmAddUpdatePrescription.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAuwGMAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T00:37:40.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "frmAddUpdatePatients.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Patients\\frmAddUpdatePatients.cs",
+              "RelativeDocumentMoniker": "Clinic Project\\Patients\\frmAddUpdatePatients.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Patients\\frmAddUpdatePatients.cs",
+              "RelativeToolTip": "Clinic Project\\Patients\\frmAddUpdatePatients.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAowFIAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T13:38:28.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "clsPatient.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic_Business\\clsPatient.cs",
+              "RelativeDocumentMoniker": "Clinic_Business\\clsPatient.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic_Business\\clsPatient.cs",
+              "RelativeToolTip": "Clinic_Business\\clsPatient.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAcwCUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T00:45:07.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "frmAddUpdatePrescription.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Prescription\\frmAddUpdatePrescription.cs",
+              "RelativeDocumentMoniker": "Clinic Project\\Prescription\\frmAddUpdatePrescription.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Prescription\\frmAddUpdatePrescription.cs [Design]",
+              "RelativeToolTip": "Clinic Project\\Prescription\\frmAddUpdatePrescription.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T00:38:15.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "clsMedicationNamesData.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic_DataAccess\\clsMedicationNamesData.cs",
+              "RelativeDocumentMoniker": "Clinic_DataAccess\\clsMedicationNamesData.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic_DataAccess\\clsMedicationNamesData.cs",
+              "RelativeToolTip": "Clinic_DataAccess\\clsMedicationNamesData.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T12:08:54.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "frmListUsers.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Users\\frmListUsers.cs",
+              "RelativeDocumentMoniker": "Clinic Project\\Users\\frmListUsers.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Users\\frmListUsers.cs",
+              "RelativeToolTip": "Clinic Project\\Users\\frmListUsers.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAywGEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T00:31:53.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "frmListUsers.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Users\\frmListUsers.cs",
+              "RelativeDocumentMoniker": "Clinic Project\\Users\\frmListUsers.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Users\\frmListUsers.cs [Design]",
+              "RelativeToolTip": "Clinic Project\\Users\\frmListUsers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T00:31:46.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "frmShowUsersInfo.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Users\\frmShowUsersInfo.cs",
+              "RelativeDocumentMoniker": "Clinic Project\\Users\\frmShowUsersInfo.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Users\\frmShowUsersInfo.cs",
+              "RelativeToolTip": "Clinic Project\\Users\\frmShowUsersInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T00:37:16.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "frmAddUpdatePrescription.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Prescription\\frmAddUpdatePrescription.Designer.cs",
+              "RelativeDocumentMoniker": "Clinic Project\\Prescription\\frmAddUpdatePrescription.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Prescription\\frmAddUpdatePrescription.Designer.cs",
+              "RelativeToolTip": "Clinic Project\\Prescription\\frmAddUpdatePrescription.Designer.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAUwFAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T11:30:45.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "frmShowUsersInfo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Users\\frmShowUsersInfo.cs",
+              "RelativeDocumentMoniker": "Clinic Project\\Users\\frmShowUsersInfo.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Users\\frmShowUsersInfo.cs [Design]",
+              "RelativeToolTip": "Clinic Project\\Users\\frmShowUsersInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T23:15:38.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "frmAddUpdateUsers.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Users\\frmAddUpdateUsers.cs",
+              "RelativeDocumentMoniker": "Clinic Project\\Users\\frmAddUpdateUsers.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Users\\frmAddUpdateUsers.cs [Design]",
+              "RelativeToolTip": "Clinic Project\\Users\\frmAddUpdateUsers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T23:55:43.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "frmChangePassword.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Users\\frmChangePassword.cs",
+              "RelativeDocumentMoniker": "Clinic Project\\Users\\frmChangePassword.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Users\\frmChangePassword.cs [Design]",
+              "RelativeToolTip": "Clinic Project\\Users\\frmChangePassword.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T23:15:35.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "frmAddUpdatePayments.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Payments\\frmAddUpdatePayments.Designer.cs",
+              "RelativeDocumentMoniker": "Clinic Project\\Payments\\frmAddUpdatePayments.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Payments\\frmAddUpdatePayments.Designer.cs",
+              "RelativeToolTip": "Clinic Project\\Payments\\frmAddUpdatePayments.Designer.cs",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAUwKAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T11:27:42.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "frmShowPatientsInfo.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Patients\\frmShowPatientsInfo.cs",
+              "RelativeDocumentMoniker": "Clinic Project\\Patients\\frmShowPatientsInfo.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Patients\\frmShowPatientsInfo.cs",
+              "RelativeToolTip": "Clinic Project\\Patients\\frmShowPatientsInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T00:37:51.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "frmShowPatientsInfo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Patients\\frmShowPatientsInfo.cs",
+              "RelativeDocumentMoniker": "Clinic Project\\Patients\\frmShowPatientsInfo.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Patients\\frmShowPatientsInfo.cs [Design]",
+              "RelativeToolTip": "Clinic Project\\Patients\\frmShowPatientsInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T00:38:32.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "frmFindPatient.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Patients\\frmFindPatient.cs",
+              "RelativeDocumentMoniker": "Clinic Project\\Patients\\frmFindPatient.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Patients\\frmFindPatient.cs",
+              "RelativeToolTip": "Clinic Project\\Patients\\frmFindPatient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T11:27:27.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "frmFindPatient.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Patients\\frmFindPatient.cs",
+              "RelativeDocumentMoniker": "Clinic Project\\Patients\\frmFindPatient.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Patients\\frmFindPatient.cs [Design]",
+              "RelativeToolTip": "Clinic Project\\Patients\\frmFindPatient.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T23:15:12.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "frmAddUpdateMedicalRecord.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\MedicalRecords\\frmAddUpdateMedicalRecord.cs",
+              "RelativeDocumentMoniker": "Clinic Project\\MedicalRecords\\frmAddUpdateMedicalRecord.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\MedicalRecords\\frmAddUpdateMedicalRecord.cs",
+              "RelativeToolTip": "Clinic Project\\MedicalRecords\\frmAddUpdateMedicalRecord.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T00:41:26.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "frmAddUpdateMedicalRecord.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\MedicalRecords\\frmAddUpdateMedicalRecord.cs",
+              "RelativeDocumentMoniker": "Clinic Project\\MedicalRecords\\frmAddUpdateMedicalRecord.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\MedicalRecords\\frmAddUpdateMedicalRecord.cs [Design]",
+              "RelativeToolTip": "Clinic Project\\MedicalRecords\\frmAddUpdateMedicalRecord.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T23:15:06.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "frmShowDoctorsInfo.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Doctors\\frmShowDoctorsInfo.cs",
+              "RelativeDocumentMoniker": "Clinic Project\\Doctors\\frmShowDoctorsInfo.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Doctors\\frmShowDoctorsInfo.cs",
+              "RelativeToolTip": "Clinic Project\\Doctors\\frmShowDoctorsInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T00:37:57.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "frmShowDoctorsInfo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Doctors\\frmShowDoctorsInfo.cs",
+              "RelativeDocumentMoniker": "Clinic Project\\Doctors\\frmShowDoctorsInfo.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Doctors\\frmShowDoctorsInfo.cs [Design]",
+              "RelativeToolTip": "Clinic Project\\Doctors\\frmShowDoctorsInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T23:15:02.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "frmFindDoctors.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Doctors\\frmFindDoctors.cs",
+              "RelativeDocumentMoniker": "Clinic Project\\Doctors\\frmFindDoctors.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Doctors\\frmFindDoctors.cs*",
+              "RelativeToolTip": "Clinic Project\\Doctors\\frmFindDoctors.cs*",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T23:17:30.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "ctrlDoctorsCardWithFilter.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Doctors\\Controls\\ctrlDoctorsCardWithFilter.cs",
+              "RelativeDocumentMoniker": "Clinic Project\\Doctors\\Controls\\ctrlDoctorsCardWithFilter.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Doctors\\Controls\\ctrlDoctorsCardWithFilter.cs",
+              "RelativeToolTip": "Clinic Project\\Doctors\\Controls\\ctrlDoctorsCardWithFilter.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAAAFYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T22:49:07.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "ctrlDoctorsCardWithFilter.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Doctors\\Controls\\ctrlDoctorsCardWithFilter.cs",
+              "RelativeDocumentMoniker": "Clinic Project\\Doctors\\Controls\\ctrlDoctorsCardWithFilter.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Doctors\\Controls\\ctrlDoctorsCardWithFilter.cs [Design]",
+              "RelativeToolTip": "Clinic Project\\Doctors\\Controls\\ctrlDoctorsCardWithFilter.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T22:49:42.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "ctrlDoctorsCard.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Doctors\\Controls\\ctrlDoctorsCard.cs",
+              "RelativeDocumentMoniker": "Clinic Project\\Doctors\\Controls\\ctrlDoctorsCard.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Doctors\\Controls\\ctrlDoctorsCard.cs",
+              "RelativeToolTip": "Clinic Project\\Doctors\\Controls\\ctrlDoctorsCard.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAkwCsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T22:50:22.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "ctrlDoctorsCard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Doctors\\Controls\\ctrlDoctorsCard.cs",
+              "RelativeDocumentMoniker": "Clinic Project\\Doctors\\Controls\\ctrlDoctorsCard.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Doctors\\Controls\\ctrlDoctorsCard.cs [Design]",
+              "RelativeToolTip": "Clinic Project\\Doctors\\Controls\\ctrlDoctorsCard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T22:50:20.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "frmSendEmails.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Appointments\\frmSendEmails.cs",
+              "RelativeDocumentMoniker": "Clinic Project\\Appointments\\frmSendEmails.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Appointments\\frmSendEmails.cs",
+              "RelativeToolTip": "Clinic Project\\Appointments\\frmSendEmails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T00:38:15.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "frmSendEmails.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Appointments\\frmSendEmails.cs",
+              "RelativeDocumentMoniker": "Clinic Project\\Appointments\\frmSendEmails.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Appointments\\frmSendEmails.cs [Design]",
+              "RelativeToolTip": "Clinic Project\\Appointments\\frmSendEmails.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T23:13:06.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "frmListAppointments.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Appointments\\frmListAppointments.cs",
+              "RelativeDocumentMoniker": "Clinic Project\\Appointments\\frmListAppointments.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Appointments\\frmListAppointments.cs",
+              "RelativeToolTip": "Clinic Project\\Appointments\\frmListAppointments.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T01:19:04.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "frmListAppointments.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Appointments\\frmListAppointments.cs",
+              "RelativeDocumentMoniker": "Clinic Project\\Appointments\\frmListAppointments.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Appointments\\frmListAppointments.cs [Design]",
+              "RelativeToolTip": "Clinic Project\\Appointments\\frmListAppointments.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T01:18:55.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "frmAddUpdateAppointment.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Appointments\\frmAddUpdateAppointment.cs",
+              "RelativeDocumentMoniker": "Clinic Project\\Appointments\\frmAddUpdateAppointment.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Appointments\\frmAddUpdateAppointment.cs",
+              "RelativeToolTip": "Clinic Project\\Appointments\\frmAddUpdateAppointment.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAowKQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T22:48:23.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "frmAddUpdateAppointment.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Appointments\\frmAddUpdateAppointment.cs",
+              "RelativeDocumentMoniker": "Clinic Project\\Appointments\\frmAddUpdateAppointment.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Appointments\\frmAddUpdateAppointment.cs [Design]",
+              "RelativeToolTip": "Clinic Project\\Appointments\\frmAddUpdateAppointment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T22:48:21.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "frmAddUpdatePersons.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Persons\\frmAddUpdatePersons.cs",
+              "RelativeDocumentMoniker": "Clinic Project\\Persons\\frmAddUpdatePersons.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Persons\\frmAddUpdatePersons.cs [Design]",
+              "RelativeToolTip": "Clinic Project\\Persons\\frmAddUpdatePersons.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T00:11:45.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "clsPaymentMethodData.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic_DataAccess\\clsPaymentMethodData.cs",
+              "RelativeDocumentMoniker": "Clinic_DataAccess\\clsPaymentMethodData.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic_DataAccess\\clsPaymentMethodData.cs",
+              "RelativeToolTip": "Clinic_DataAccess\\clsPaymentMethodData.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwCkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T00:36:12.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "clsPayments.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic_Business\\clsPayments.cs",
+              "RelativeDocumentMoniker": "Clinic_Business\\clsPayments.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic_Business\\clsPayments.cs",
+              "RelativeToolTip": "Clinic_Business\\clsPayments.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T12:12:06.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "clsPaymentMethod.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic_Business\\clsPaymentMethod.cs",
+              "RelativeDocumentMoniker": "Clinic_Business\\clsPaymentMethod.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic_Business\\clsPaymentMethod.cs",
+              "RelativeToolTip": "Clinic_Business\\clsPaymentMethod.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAwDMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T00:35:49.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "clsMedicalRecord.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic_Business\\clsMedicalRecord.cs",
+              "RelativeDocumentMoniker": "Clinic_Business\\clsMedicalRecord.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic_Business\\clsMedicalRecord.cs",
+              "RelativeToolTip": "Clinic_Business\\clsMedicalRecord.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAkwBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T12:20:37.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "ctrlPatientCardWithFilter.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Patients\\Controls\\ctrlPatientCardWithFilter.cs",
+              "RelativeDocumentMoniker": "Clinic Project\\Patients\\Controls\\ctrlPatientCardWithFilter.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Patients\\Controls\\ctrlPatientCardWithFilter.cs",
+              "RelativeToolTip": "Clinic Project\\Patients\\Controls\\ctrlPatientCardWithFilter.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T22:57:53.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "ctrlPersonCardWithFilter.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Persons\\Controls\\ctrlPersonCardWithFilter.cs",
+              "RelativeDocumentMoniker": "Clinic Project\\Persons\\Controls\\ctrlPersonCardWithFilter.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Persons\\Controls\\ctrlPersonCardWithFilter.cs",
+              "RelativeToolTip": "Clinic Project\\Persons\\Controls\\ctrlPersonCardWithFilter.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAAwKEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T12:50:34.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "ctrlPersonCard.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Persons\\Controls\\ctrlPersonCard.cs",
+              "RelativeDocumentMoniker": "Clinic Project\\Persons\\Controls\\ctrlPersonCard.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Persons\\Controls\\ctrlPersonCard.cs",
+              "RelativeToolTip": "Clinic Project\\Persons\\Controls\\ctrlPersonCard.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAQwDcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T11:56:56.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "ctrlPersonCardWithFilter.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Persons\\Controls\\ctrlPersonCardWithFilter.cs",
+              "RelativeDocumentMoniker": "Clinic Project\\Persons\\Controls\\ctrlPersonCardWithFilter.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Persons\\Controls\\ctrlPersonCardWithFilter.cs [Design]",
+              "RelativeToolTip": "Clinic Project\\Persons\\Controls\\ctrlPersonCardWithFilter.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T23:15:20.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "ctrlPatientCardWithFilter.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Patients\\Controls\\ctrlPatientCardWithFilter.cs",
+              "RelativeDocumentMoniker": "Clinic Project\\Patients\\Controls\\ctrlPatientCardWithFilter.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Patients\\Controls\\ctrlPatientCardWithFilter.cs [Design]",
+              "RelativeToolTip": "Clinic Project\\Patients\\Controls\\ctrlPatientCardWithFilter.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T22:57:51.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "frmListPersons.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Persons\\frmListPersons.cs",
+              "RelativeDocumentMoniker": "Clinic Project\\Persons\\frmListPersons.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Persons\\frmListPersons.cs",
+              "RelativeToolTip": "Clinic Project\\Persons\\frmListPersons.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T12:30:29.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "frmListPersons.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Persons\\frmListPersons.cs",
+              "RelativeDocumentMoniker": "Clinic Project\\Persons\\frmListPersons.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Persons\\frmListPersons.cs [Design]",
+              "RelativeToolTip": "Clinic Project\\Persons\\frmListPersons.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T23:15:23.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 117,
+              "Title": "ctrlFilter.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\ctrlFilter.cs",
+              "RelativeDocumentMoniker": "Clinic Project\\ctrlFilter.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\ctrlFilter.cs [Design]",
+              "RelativeToolTip": "Clinic Project\\ctrlFilter.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T23:07:49.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "clsMajor.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic_Business\\clsMajor.cs",
+              "RelativeDocumentMoniker": "Clinic_Business\\clsMajor.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic_Business\\clsMajor.cs",
+              "RelativeToolTip": "Clinic_Business\\clsMajor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T00:35:47.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "clsPerson.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic_Business\\clsPerson.cs",
+              "RelativeDocumentMoniker": "Clinic_Business\\clsPerson.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic_Business\\clsPerson.cs",
+              "RelativeToolTip": "Clinic_Business\\clsPerson.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAYwGcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T00:18:55.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "clsStatus.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic_Business\\clsStatus.cs",
+              "RelativeDocumentMoniker": "Clinic_Business\\clsStatus.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic_Business\\clsStatus.cs",
+              "RelativeToolTip": "Clinic_Business\\clsStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T00:39:09.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "clsUsers.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic_Business\\clsUsers.cs",
+              "RelativeDocumentMoniker": "Clinic_Business\\clsUsers.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic_Business\\clsUsers.cs",
+              "RelativeToolTip": "Clinic_Business\\clsUsers.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAowJAAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T00:19:50.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "clsSettings.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic_DataAccess\\clsSettings.cs",
+              "RelativeDocumentMoniker": "Clinic_DataAccess\\clsSettings.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic_DataAccess\\clsSettings.cs",
+              "RelativeToolTip": "Clinic_DataAccess\\clsSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T00:36:21.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "frmShowPersonInfo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Persons\\frmShowPersonInfo.cs",
+              "RelativeDocumentMoniker": "Clinic Project\\Persons\\frmShowPersonInfo.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Persons\\frmShowPersonInfo.cs [Design]",
+              "RelativeToolTip": "Clinic Project\\Persons\\frmShowPersonInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T23:15:24.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "frmAddUpdateUsers.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Users\\frmAddUpdateUsers.cs",
+              "RelativeDocumentMoniker": "Clinic Project\\Users\\frmAddUpdateUsers.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Users\\frmAddUpdateUsers.cs",
+              "RelativeToolTip": "Clinic Project\\Users\\frmAddUpdateUsers.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAowGUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T23:55:45.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "frmChangePassword.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Users\\frmChangePassword.cs",
+              "RelativeDocumentMoniker": "Clinic Project\\Users\\frmChangePassword.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Users\\frmChangePassword.cs",
+              "RelativeToolTip": "Clinic Project\\Users\\frmChangePassword.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T00:37:28.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 112,
+              "Title": "frmDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\frmDashboard.cs",
+              "RelativeDocumentMoniker": "Clinic Project\\frmDashboard.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\frmDashboard.cs [Design]",
+              "RelativeToolTip": "Clinic Project\\frmDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T01:25:05.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "clsEmails.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic_Business\\clsEmails.cs",
+              "RelativeDocumentMoniker": "Clinic_Business\\clsEmails.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic_Business\\clsEmails.cs",
+              "RelativeToolTip": "Clinic_Business\\clsEmails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T00:35:44.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "clsDoctor.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic_Business\\clsDoctor.cs",
+              "RelativeDocumentMoniker": "Clinic_Business\\clsDoctor.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic_Business\\clsDoctor.cs",
+              "RelativeToolTip": "Clinic_Business\\clsDoctor.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAawJoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T23:08:25.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "clsAppointments.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic_Business\\clsAppointments.cs",
+              "RelativeDocumentMoniker": "Clinic_Business\\clsAppointments.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic_Business\\clsAppointments.cs",
+              "RelativeToolTip": "Clinic_Business\\clsAppointments.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAmwIoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T11:59:31.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 113,
+              "Title": "frmDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\frmDashboard.cs",
+              "RelativeDocumentMoniker": "Clinic Project\\frmDashboard.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\frmDashboard.cs",
+              "RelativeToolTip": "Clinic Project\\frmDashboard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T12:17:37.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "ctrlPatientCard.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Patients\\Controls\\ctrlPatientCard.cs",
+              "RelativeDocumentMoniker": "Clinic Project\\Patients\\Controls\\ctrlPatientCard.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Patients\\Controls\\ctrlPatientCard.cs",
+              "RelativeToolTip": "Clinic Project\\Patients\\Controls\\ctrlPatientCard.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAuwE4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T22:54:36.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "frmFindPerson.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Persons\\frmFindPerson.cs",
+              "RelativeDocumentMoniker": "Clinic Project\\Persons\\frmFindPerson.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Persons\\frmFindPerson.cs [Design]",
+              "RelativeToolTip": "Clinic Project\\Persons\\frmFindPerson.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T23:15:22.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "ctrlPatientCard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Patients\\Controls\\ctrlPatientCard.cs",
+              "RelativeDocumentMoniker": "Clinic Project\\Patients\\Controls\\ctrlPatientCard.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Patients\\Controls\\ctrlPatientCard.cs [Design]",
+              "RelativeToolTip": "Clinic Project\\Patients\\Controls\\ctrlPatientCard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T22:54:34.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "frmFindDoctors.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Doctors\\frmFindDoctors.Designer.cs",
+              "RelativeDocumentMoniker": "Clinic Project\\Doctors\\frmFindDoctors.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Doctors\\frmFindDoctors.Designer.cs*",
+              "RelativeToolTip": "Clinic Project\\Doctors\\frmFindDoctors.Designer.cs*",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T23:14:18.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "ctrlPersonCard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Persons\\Controls\\ctrlPersonCard.cs",
+              "RelativeDocumentMoniker": "Clinic Project\\Persons\\Controls\\ctrlPersonCard.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Persons\\Controls\\ctrlPersonCard.cs [Design]",
+              "RelativeToolTip": "Clinic Project\\Persons\\Controls\\ctrlPersonCard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T11:56:54.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "frmAddUpdateAppointment.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Appointments\\frmAddUpdateAppointment.Designer.cs",
+              "RelativeDocumentMoniker": "Clinic Project\\Appointments\\frmAddUpdateAppointment.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\Appointments\\frmAddUpdateAppointment.Designer.cs",
+              "RelativeToolTip": "Clinic Project\\Appointments\\frmAddUpdateAppointment.Designer.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAAwJgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T23:12:13.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 118,
+              "Title": "ctrlFilter.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\ctrlFilter.cs",
+              "RelativeDocumentMoniker": "Clinic Project\\ctrlFilter.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\ctrlFilter.cs",
+              "RelativeToolTip": "Clinic Project\\ctrlFilter.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T23:07:51.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "frmChangePassword.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\frmChangePassword.cs",
+              "RelativeDocumentMoniker": "Clinic Project\\frmChangePassword.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\frmChangePassword.cs",
+              "RelativeToolTip": "Clinic Project\\frmChangePassword.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T22:19:21.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "frmChangePassword.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\frmChangePassword.cs",
+              "RelativeDocumentMoniker": "Clinic Project\\frmChangePassword.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\frmChangePassword.cs [Design]",
+              "RelativeToolTip": "Clinic Project\\frmChangePassword.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T00:31:01.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "ctrlUserCard.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\ctrlUserCard.cs",
+              "RelativeDocumentMoniker": "Clinic Project\\ctrlUserCard.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\ctrlUserCard.cs",
+              "RelativeToolTip": "Clinic Project\\ctrlUserCard.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T11:54:23.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "frmChangePassword.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\frmChangePassword.Designer.cs",
+              "RelativeDocumentMoniker": "Clinic Project\\frmChangePassword.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\frmChangePassword.Designer.cs",
+              "RelativeToolTip": "Clinic Project\\frmChangePassword.Designer.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwCQBAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T22:22:11.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "frmShowUsersInfo.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\frmShowUsersInfo.cs",
+              "RelativeDocumentMoniker": "Clinic Project\\frmShowUsersInfo.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\frmShowUsersInfo.cs",
+              "RelativeToolTip": "Clinic Project\\frmShowUsersInfo.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T12:12:19.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "ctrlUserCard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\ctrlUserCard.cs",
+              "RelativeDocumentMoniker": "Clinic Project\\ctrlUserCard.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\ctrlUserCard.cs [Design]",
+              "RelativeToolTip": "Clinic Project\\ctrlUserCard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T00:49:52.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "frmShowUsersInfo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\frmShowUsersInfo.cs",
+              "RelativeDocumentMoniker": "Clinic Project\\frmShowUsersInfo.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\frmShowUsersInfo.cs [Design]",
+              "RelativeToolTip": "Clinic Project\\frmShowUsersInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T12:08:56.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "ctrlUserCard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\ctrlUserCard.Designer.cs",
+              "RelativeDocumentMoniker": "Clinic Project\\ctrlUserCard.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clinic Project\\Clinic Project\\ctrlUserCard.Designer.cs",
+              "RelativeToolTip": "Clinic Project\\ctrlUserCard.Designer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwKUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T11:56:32.109Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
